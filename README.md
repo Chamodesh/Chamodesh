@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 👀 I’m interested in **Machine Learning development and Data Analysis.**
+- 👀 I’m interested in **Machine Learning and Data Analysis.**
 
 - 📫 How to reach me **chamodeshwarage@gmail.com**
 
