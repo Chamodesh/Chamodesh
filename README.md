@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamod Eshwarage</h1>
-- 🎓 I'm a Data Science **undergraduate at the Sri Lanka Technological Campus.**
+- 🎓 I'm a Data Science Undergraduate at the Sri Lanka Technological Campus.
 
 - 🌱 I’m currently learning **Tensorflow**
 
